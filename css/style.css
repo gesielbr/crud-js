@@ -1,0 +1,13 @@
+.botao {
+  width: 100%;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+#tblDados {
+  vertical-align: middle;
+}
+
+#tblDados td:first-child {
+  text-align: center;
+}
